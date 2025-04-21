@@ -27,7 +27,7 @@ c3=c1+c2
 print(c3)
 ```
 ## OUTPUT
-
+EXP1-1.png
 
 ## RESULT
 
