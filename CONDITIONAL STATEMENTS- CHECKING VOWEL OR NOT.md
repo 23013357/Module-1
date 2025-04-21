@@ -29,6 +29,6 @@ else:
 ```
 
 ## OUTPUT[
-[exp-4-1.png](
+[exp-4-1.png](https://github.com/23013357/Module-1/blob/main/exp-4-1.png?raw=true)
 ## RESULT
 Thus,the given number is even or odd using If..else statements is checked.
