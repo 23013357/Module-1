@@ -27,7 +27,8 @@ c3=c1+c2
 print(c3)
 ```
 ## OUTPUT
-EXP1-1.png
+[EXP1-1.png](https://github.com/23013357/Module-1/blob/main/EXP1-1.png?raw=true)
+
 
 ## RESULT
 
