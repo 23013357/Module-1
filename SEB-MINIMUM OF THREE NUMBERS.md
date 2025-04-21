@@ -28,6 +28,6 @@ else:
 ```
 
 ## OUTPUT
-
+[3.png](
 ## RESULT
 Hence the largest among three Integer Numbers is founded
