@@ -1,29 +1,38 @@
-# Experiment No: 2- Data Types – Printing Integer Literals
+# Experiment No: 2- Data Types –  program to print 'S'  and 'k' using character literal.
 
 ## AIM  
-To write a Python program to print the following integer literals: 123, 456, 789.
+To write a Python program to print 'S'  and 'k' using character literal.
 
 ## ALGORITHM  
-1. Begin the program.  
-2. Initialize the integer literals `123`, `456`, and `789`.  
-3. Use the `print()` function to display the numbers `123`, `456`, and `789`.  
-4. Terminate the program.
+
+Start.
+
+Declare two variables to store characters.
+
+Assign 'S' to the first variable.
+
+Assign 'k' to the second variable.
+
+Print the value of the first variable.
+
+Print the value of the second variable.
+
+End.
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
+# Reg.No-212223020031
+# Name-Yazhini N
 
-num1 = 123
-num2 = 456
-num3 = 789
 
-print(num1)
-print(num2)
-print(num3)
+a="S"
+b="k"
+
+print(a)
+print(b)
 
 ```
 ## OUTPUT
 
 ## RESULT
+Thus, S'  and 'k' using character literal is printed.
