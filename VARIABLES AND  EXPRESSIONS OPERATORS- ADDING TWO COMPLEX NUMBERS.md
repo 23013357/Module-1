@@ -18,8 +18,6 @@ Print the Celsius value (formatted to 2 decimal places).
 
 End.
 
-
-
 ## PROGRAM
 ```python
 # Reg.No-212223020031
@@ -32,7 +30,7 @@ print("Celsius = {:.2f}".format(c))
 ```
 
 ## OUTPUT
-
+[5](https://github.com/23013357/Module-1/blob/main/ex5.png?raw=true)
 
 ## RESULT
 Thus the python program for  to convert temperature from Fahrenheit to Celsius has been implemented and executed successfully.
