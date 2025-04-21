@@ -28,7 +28,7 @@ else:
     print('ODD')
 ```
 
-## OUTPUT
-https://github.com/23013357/Module-1/blob/main/exp%204.png?raw=true
+## OUTPUT[
+[exp 4](https://github.com/23013357/Module-1/blob/main/exp%204.png?raw=true)
 ## RESULT
 Thus,the given number is even or odd using If..else statements is checked.
