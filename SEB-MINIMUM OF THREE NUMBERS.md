@@ -1,7 +1,7 @@
-# Experiment No: 5 – SEB-Minimum of Three Numbers
+# Experiment No: 5 – SEB- find the largest among three Integer Numbers .
 
 ## AIM  
-To write a Python program to find the minimum between three integer numbers using a conditional expression (Ternary operator).
+To write a Python program to find the largest among three Integer Numbers .
 
 ## ALGORITHM  
 1. Begin the program.  
@@ -16,19 +16,18 @@ To write a Python program to find the minimum between three integer numbers usin
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
-
-num1 = int(input())
-num2 = int(input())
-num3 = int(input())
-
-min_num = num1 if (num1 <= num2 and num1 <= num3) else num2 if (num2 <= num1 and num2 <= num3) else num3
-
-print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
+# Reg.No-212223020031
+# Name-Yazhini N
+a=int(input())
+b=int(input())
+c=int(input())
+if (a>b>c):
+    print("The largest of the three a=",a,"b=",b,"c=",c,"is",a)
+else:
+    print("The largest of the three a=",a,"b=",b,"c=",c,"is",c)
 ```
 
 ## OUTPUT
 
 ## RESULT
+Hence the largest among three Integer Numbers is founded
