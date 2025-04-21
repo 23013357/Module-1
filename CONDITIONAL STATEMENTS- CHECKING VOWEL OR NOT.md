@@ -1,7 +1,7 @@
-## Experiment No: 4 – Conditional Statements- Checking Vowel or not
+## Experiment No: 4 – Conditional Statements-program to check whether the given number is even or odd using If..else statements.
 
 ## AIM  
-To Write a Python program to check whether the given character is a vowel or not using if..else statement
+To Write a Python program to check whether the given number is even or odd using If..else statements.
 ## ALGORITHM  
 1. Begin the program.  
 2. Take a character input from the user
@@ -13,19 +13,17 @@ To Write a Python program to check whether the given character is a vowel or not
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
+# Reg.No-212223020031
+# Name-Yazhini N
 
-char = input("Enter a character: ")
-char_lower = char.lower()
-
-if char_lower in ['a', 'e', 'i', 'o', 'u']:
-    print("The given character is a vowel")
+a=int(input())
+if a%2==0:
+    print('EVEN')
 else:
-    print("The given character is NOT a vowel")
+    print('ODD')
 ```
 
 ## OUTPUT
 
 ## RESULT
+Thus,the given number is even or odd using If..else statements is checked.
