@@ -33,7 +33,7 @@ print(b)
 
 ```
 ## OUTPUT
-https://github.com/23013357/Module-1/blob/main/exp1.png
+[exp2.png](https://github.com/23013357/Module-1/blob/main/exp1.png)
 
 ## RESULT
 Thus, S'  and 'k' using character literal is printed.
